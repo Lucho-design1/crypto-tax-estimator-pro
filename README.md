@@ -1,2 +1,5 @@
 # crypto-tax-estimator-pro
-Herramienta gratuita web de estimación de comisiones y arbitraje cripto con enlace directo de donación/pago PayPal.
+
+Este proyecto está en pausa y no ofrece ningún producto ni servicio a la venta.
+
+Herramienta gratuita disponible: [Calculadora de Comisiones LatAm](https://lucho-design1.github.io/fee-calculator-latam/)
